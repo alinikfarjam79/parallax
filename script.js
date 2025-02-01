@@ -323,4 +323,3 @@ tl4.to("#textpage6>p>span", {
   stagger: 1,
 })
 
-//CONTINUE FROM ANIMATION ON PAGE 6 or something and learn the parallax shit bro
