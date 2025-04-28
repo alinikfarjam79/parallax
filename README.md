@@ -3,7 +3,7 @@
 
 -[Demo Link](https://alinikfarjam79.github.io/parallax/)
 - **Developed by**: Ali nikfarjam
-- **Created**: 2025-12-10
+- **Created**: 2025-28-01
 - **Technologies Used**: HTML, CSS, TailwindCSS, JavaScript
 - **Role**: Frontend
 
